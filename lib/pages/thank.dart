@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors
-
+//BY @Sajjad.dev
 import 'package:flutter/material.dart';
 
 class ThankScreen extends StatelessWidget {
