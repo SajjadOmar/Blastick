@@ -1,3 +1,3 @@
 # Plastic
-#My first App.
+#First App.
 BY @Sajjad.dev
